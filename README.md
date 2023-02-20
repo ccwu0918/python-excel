@@ -22,15 +22,15 @@ https://mega.nz/file/zE8SnBja#nJAUXkKWWJdFi-_c0dIXFuqSMhCkh-VhAIHUycqf7tg
   `pip install requests==2.28.1`
 
 ## 第12章: Python 3.10
-  `pip install openpyxl==3.0.9`
-  `pip install pandas==1.5.0`
+  `pip install openpyxl==3.0.9`  
+  `pip install pandas==1.5.0`  
   `pip install lxml==4.9.1`
 
 ## 第13章: Python 3.10
   `pip install pandas==1.5.0`
 
 ## 第15章: Python 3.10
-  `pip install python-docx==0.8.11`
+  `pip install python-docx==0.8.11`  
   `pip install python-pptx==0.6.21`
 
 ## 第16章: Python 3.10   
